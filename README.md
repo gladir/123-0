@@ -16,6 +16,10 @@ Voici la liste des différents fichiers proposés dans 123-0 :
 			<td><b>123.PAS</b></td>
 			<td>Cette commande permet de lancer un clone de Lotus 1-2-3.</td>
 		</tr>
+		<tr>
+			<td><b>CSV2WK1.PAS</b></td>
+			<td>Cette commande permet de convertir un fichier .CSV en format WK1 de Lotus 1-2-3.</td>
+		</tr>
 </table>  
 
 <h2>Compilation</h2>
